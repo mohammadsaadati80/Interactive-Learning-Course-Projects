@@ -10,3 +10,6 @@
 [submodule "HW4"]
 	path = HW4
 	url = git@github.com:mohammadsaadati80/Taxi-v3.git
+[submodule "HW5"]
+	path = HW5
+	url = git@github.com:mohammadsaadati80/Highway-DQN.git
