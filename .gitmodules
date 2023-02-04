@@ -4,3 +4,6 @@
 [submodule "HW2"]
 	path = HW2
 	url = git@github.com:mohammadsaadati80/Multi-Armed-Bandit.git
+[submodule "HW3"]
+	path = HW3
+	url = git@github.com:mohammadsaadati80/Frozen-Lake-PI-VI.git
