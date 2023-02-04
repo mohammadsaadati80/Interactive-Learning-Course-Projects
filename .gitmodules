@@ -1,3 +1,6 @@
 [submodule "HW1"]
 	path = HW1
 	url = git@github.com:mohammadsaadati80/IL-HW1.git
+[submodule "HW2"]
+	path = HW2
+	url = git@github.com:mohammadsaadati80/Multi-Armed-Bandit.git
